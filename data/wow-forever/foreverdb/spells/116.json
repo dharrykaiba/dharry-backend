@@ -1,0 +1,36 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "spells",
+    "id": "116",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:22:34.978Z"
+  },
+  "data": {
+    "data": {
+      "id": 116,
+      "name": "Frostbolt",
+      "rank": "Rank 1",
+      "description": "Launches a bolt of frost at the enemy, causing 18 to 20  Frost damage and slowing movement speed by 40% for 5 sec.",
+      "icon": "https://foreverdb.net/icons/135846.webp",
+      "url": "https://foreverdb.net/spell/116",
+      "locales": {
+        "en_US": {
+          "name": "Frostbolt",
+          "rank": "Rank 1",
+          "description": "Launches a bolt of frost at the enemy, causing 18 to 20  Frost damage and slowing movement speed by 40% for 5 sec."
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/135846.webp": {
+      "filename": "c5be58e263e43ef20b08b091d68c06cb71dd0da7bf14d161700bc28a58e22523.webp",
+      "url": "/api/wow/cache-assets/c5be58e263e43ef20b08b091d68c06cb71dd0da7bf14d161700bc28a58e22523.webp"
+    }
+  }
+}

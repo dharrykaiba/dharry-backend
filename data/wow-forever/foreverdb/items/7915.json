@@ -1,0 +1,62 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "items",
+    "id": "7915",
+    "params": {},
+    "fetchedAt": "2026-10-21T18:09:34.425Z"
+  },
+  "data": {
+    "data": {
+      "id": 7915,
+      "name": "Barbaric Iron Helm",
+      "quality": "Uncommon",
+      "qualityId": 2,
+      "itemLevel": 35,
+      "requiredLevel": 30,
+      "classId": 4,
+      "class": "Armor",
+      "subclassId": 3,
+      "subclass": "Mail",
+      "inventoryTypeId": 1,
+      "inventoryType": "Head",
+      "icon": "https://foreverdb.net/icons/133127.webp",
+      "url": "https://foreverdb.net/item/7915",
+      "stats": [
+        {
+          "statId": 3,
+          "stat": "Agility",
+          "value": 9
+        },
+        {
+          "statId": 4,
+          "stat": "Strength",
+          "value": 9
+        }
+      ],
+      "damage": null,
+      "speed": null,
+      "bonding": "Binds when equipped",
+      "sellPrice": 3337,
+      "unique": false,
+      "effects": [],
+      "locales": {
+        "en_US": {
+          "name": "Barbaric Iron Helm",
+          "rank": null,
+          "description": null
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/133127.webp": {
+      "filename": "28f26bdd831ebb553f01c654ae0707378a256babaf67f9023e9abdc7fee3eca8.webp",
+      "url": "/api/wow/cache-assets/28f26bdd831ebb553f01c654ae0707378a256babaf67f9023e9abdc7fee3eca8.webp"
+    }
+  }
+}

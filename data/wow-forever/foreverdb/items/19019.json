@@ -1,0 +1,82 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "items",
+    "id": "19019",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:26:37.998Z"
+  },
+  "data": {
+    "data": {
+      "id": 19019,
+      "name": "Thunderfury, Blessed Blade of the Windseeker",
+      "quality": "Legendary",
+      "qualityId": 5,
+      "itemLevel": 80,
+      "requiredLevel": 60,
+      "classId": 2,
+      "class": "Weapon",
+      "subclassId": 7,
+      "subclass": "Sword",
+      "inventoryTypeId": 13,
+      "inventoryType": "One-Hand",
+      "icon": "https://foreverdb.net/icons/135349.webp",
+      "url": "https://foreverdb.net/item/19019",
+      "stats": [
+        {
+          "statId": 3,
+          "stat": "Agility",
+          "value": 5
+        },
+        {
+          "statId": 7,
+          "stat": "Stamina",
+          "value": 8
+        },
+        {
+          "statId": 51,
+          "stat": "Fire Resistance",
+          "value": 8
+        },
+        {
+          "statId": 55,
+          "stat": "Nature Resistance",
+          "value": 9
+        }
+      ],
+      "damage": {
+        "min": 82,
+        "max": 153,
+        "school": "Physical"
+      },
+      "speed": 1.9,
+      "bonding": "Binds when picked up",
+      "sellPrice": 255355,
+      "unique": true,
+      "effects": [
+        {
+          "trigger": "chance on hit",
+          "spellId": 21992,
+          "text": "Blasts your enemy with lightning, dealing 300 Nature damage and then jumping to additional nearby enemies.  Each jump reduces that victim's Nature resistance by 25. Affects 5 targets. Your primary target is also consumed by a cyclone, slowing its attack speed by 20% for 12 sec."
+        }
+      ],
+      "locales": {
+        "en_US": {
+          "name": "Thunderfury, Blessed Blade of the Windseeker",
+          "rank": null,
+          "description": null
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/135349.webp": {
+      "filename": "980b5fec96d9c704750984b8e0d3bc166f20c9f31433a8a8454411b396185a46.webp",
+      "url": "/api/wow/cache-assets/980b5fec96d9c704750984b8e0d3bc166f20c9f31433a8a8454411b396185a46.webp"
+    }
+  }
+}

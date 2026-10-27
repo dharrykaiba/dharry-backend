@@ -1,0 +1,36 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "spells",
+    "id": "126",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:22:50.830Z"
+  },
+  "data": {
+    "data": {
+      "id": 126,
+      "name": "Eye of Kilrogg",
+      "rank": "Summon",
+      "description": "Summons an Eye of Kilrogg and binds your vision to it.  The eye moves quickly but is very fragile.",
+      "icon": "https://foreverdb.net/icons/136155.webp",
+      "url": "https://foreverdb.net/spell/126",
+      "locales": {
+        "en_US": {
+          "name": "Eye of Kilrogg",
+          "rank": "Summon",
+          "description": "Summons an Eye of Kilrogg and binds your vision to it.  The eye moves quickly but is very fragile."
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/136155.webp": {
+      "filename": "4aa47056021e5c67e177ca6fcbd8bfd6e77c9a0c7289257b944f3c661bc2dd87.webp",
+      "url": "/api/wow/cache-assets/4aa47056021e5c67e177ca6fcbd8bfd6e77c9a0c7289257b944f3c661bc2dd87.webp"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "items",
+    "id": "6686",
+    "params": {},
+    "fetchedAt": "2026-10-21T18:10:22.108Z"
+  },
+  "data": {
+    "data": {
+      "id": 6686,
+      "name": "Tusken Helm",
+      "quality": "Rare",
+      "qualityId": 3,
+      "itemLevel": 34,
+      "requiredLevel": 29,
+      "classId": 4,
+      "class": "Armor",
+      "subclassId": 3,
+      "subclass": "Mail",
+      "inventoryTypeId": 1,
+      "inventoryType": "Head",
+      "icon": "https://foreverdb.net/icons/133077.webp",
+      "url": "https://foreverdb.net/item/6686",
+      "stats": [
+        {
+          "statId": 4,
+          "stat": "Strength",
+          "value": 13
+        }
+      ],
+      "damage": null,
+      "speed": null,
+      "bonding": "Binds when picked up",
+      "sellPrice": 3567,
+      "unique": false,
+      "effects": [],
+      "locales": {
+        "en_US": {
+          "name": "Tusken Helm",
+          "rank": null,
+          "description": null
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/133077.webp": {
+      "filename": "1b8288ba7e097c40fb7db3b142904cdcdc246186513368a6c1c83b8e1ba62608.webp",
+      "url": "/api/wow/cache-assets/1b8288ba7e097c40fb7db3b142904cdcdc246186513368a6c1c83b8e1ba62608.webp"
+    }
+  }
+}

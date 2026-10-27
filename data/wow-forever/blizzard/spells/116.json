@@ -1,0 +1,22 @@
+{
+  "_cache": {
+    "source": "blizzard",
+    "resource": "spells",
+    "id": 116,
+    "params": {},
+    "fetchedAt": "2026-10-21T15:22:31.460Z"
+  },
+  "data": {
+    "id": 116,
+    "name": "Frostbolt",
+    "description": "Launches a bolt of frost at the enemy, causing 1,041 Frost damage and slowing movement speed by 50% for 8 sec.",
+    "icon": "https://render.worldofwarcraft.com/us/icons/56/135846.jpg",
+    "mediaAvailable": true
+  },
+  "assets": {
+    "https://render.worldofwarcraft.com/us/icons/56/135846.jpg": {
+      "filename": "d607042e0b980a0b5033bbbf2dfe9ceb827db6312904749b19dfc83ba8344a54.jpg",
+      "url": "/api/wow/cache-assets/d607042e0b980a0b5033bbbf2dfe9ceb827db6312904749b19dfc83ba8344a54.jpg"
+    }
+  }
+}

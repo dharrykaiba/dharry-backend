@@ -1,0 +1,40 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "quests",
+    "id": "123",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:28:05.113Z"
+  },
+  "data": {
+    "data": {
+      "id": 123,
+      "name": "The Collector",
+      "level": 10,
+      "requiredLevel": 7,
+      "side": "a",
+      "category": "Elwynn Forest",
+      "zone": {
+        "n": "Elwynn Forest",
+        "slug": "elwynn-forest",
+        "m": 1429
+      },
+      "knownInForever": true,
+      "source": "classic",
+      "updated": "2026-09-28",
+      "url": "https://foreverdb.net/quest/123-the-collector",
+      "locales": {
+        "en_US": {
+          "name": "The Collector",
+          "rank": null,
+          "description": null
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {}
+}

@@ -1,0 +1,42 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "spells",
+    "id": "122",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:21:00.833Z",
+    "updatedAt": "2026-10-21T15:21:01.296Z"
+  },
+  "data": {
+    "data": {
+      "id": 122,
+      "name": "Frost Nova",
+      "rank": "Rank 1",
+      "description": "Blasts enemies near the caster for 19 to 21 Frost damage and freezes them in place for up to 8 sec.  Damage caused may interrupt the effect.",
+      "icon": "https://foreverdb.net/icons/135848.webp",
+      "url": "https://foreverdb.net/spell/122",
+      "locales": {
+        "en_US": {
+          "name": "Frost Nova",
+          "rank": "Rank 1",
+          "description": "Blasts enemies near the caster for 19 to 21 Frost damage and freezes them in place for up to 8 sec.  Damage caused may interrupt the effect."
+        },
+        "es_ES": {
+          "name": "Nova de Escarcha",
+          "rank": "Rank 1",
+          "description": "Golpea a los enemigos situados en un radio de 12 m de ti, lo que les inflige 21 p. de daño de Escarcha y los congela durante 6 s. El daño puede interrumpir el efecto de congelación."
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/135848.webp": {
+      "filename": "bd3acfa49dab4ba1e046abcc7f5312a36a00ff328edeb4718b340553d99172a8.webp",
+      "url": "/api/wow/cache-assets/bd3acfa49dab4ba1e046abcc7f5312a36a00ff328edeb4718b340553d99172a8.webp"
+    }
+  }
+}

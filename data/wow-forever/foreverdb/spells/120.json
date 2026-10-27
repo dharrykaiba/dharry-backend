@@ -1,0 +1,36 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "spells",
+    "id": "120",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:22:43.038Z"
+  },
+  "data": {
+    "data": {
+      "id": 120,
+      "name": "Cone of Cold",
+      "rank": "Rank 1",
+      "description": "Targets in a cone in front of the caster take 92 to 102  Frost damage and are slowed by 40% for 6 sec. The first 4 targets hit by this cone are slowed by an additional 10% for an additional 3 sec.",
+      "icon": "https://foreverdb.net/icons/135852.webp",
+      "url": "https://foreverdb.net/spell/120",
+      "locales": {
+        "en_US": {
+          "name": "Cone of Cold",
+          "rank": "Rank 1",
+          "description": "Targets in a cone in front of the caster take 92 to 102  Frost damage and are slowed by 40% for 6 sec. The first 4 targets hit by this cone are slowed by an additional 10% for an additional 3 sec."
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/135852.webp": {
+      "filename": "c7d83bc1e614ced7c0db8bb8f79624079741ffe73ee6c57bcbe3ce7f39f0a424.webp",
+      "url": "/api/wow/cache-assets/c7d83bc1e614ced7c0db8bb8f79624079741ffe73ee6c57bcbe3ce7f39f0a424.webp"
+    }
+  }
+}

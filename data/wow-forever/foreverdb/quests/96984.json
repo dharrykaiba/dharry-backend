@@ -1,0 +1,36 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "quests",
+    "id": "96984",
+    "params": {},
+    "fetchedAt": "2026-10-21T15:29:10.605Z"
+  },
+  "data": {
+    "data": {
+      "id": 96984,
+      "name": "Quest #96984",
+      "level": null,
+      "requiredLevel": null,
+      "side": "both",
+      "category": "",
+      "zone": null,
+      "knownInForever": false,
+      "source": "unknown",
+      "updated": "2026-09-28",
+      "url": "https://foreverdb.net/quest/96984-quest-96984",
+      "locales": {
+        "en_US": {
+          "name": "Quest #96984",
+          "rank": null,
+          "description": null
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {}
+}

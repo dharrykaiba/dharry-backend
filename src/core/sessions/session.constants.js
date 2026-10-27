@@ -1,0 +1,4 @@
+module.exports = {
+  COOKIE_NAME_ENV: "SESSION_COOKIE_NAME",
+  DEFAULT_MAX_AGE: 1000 * 60 * 60 * 24 * 7
+};

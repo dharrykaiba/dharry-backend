@@ -1,0 +1,67 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "items",
+    "id": "250518",
+    "params": {},
+    "fetchedAt": "2026-10-21T16:42:29.840Z"
+  },
+  "data": {
+    "data": {
+      "id": 250518,
+      "name": "Veteran's Silvered Chain Shirt",
+      "quality": "Rare",
+      "qualityId": 3,
+      "itemLevel": 27,
+      "requiredLevel": 22,
+      "classId": 4,
+      "class": "Armor",
+      "subclassId": 3,
+      "subclass": "Mail",
+      "inventoryTypeId": 5,
+      "inventoryType": "Chest",
+      "icon": "https://foreverdb.net/icons/132629.webp",
+      "url": "https://foreverdb.net/item/250518",
+      "stats": [
+        {
+          "statId": 3,
+          "stat": "Agility",
+          "value": 6
+        },
+        {
+          "statId": 7,
+          "stat": "Stamina",
+          "value": 7
+        },
+        {
+          "statId": 4,
+          "stat": "Strength",
+          "value": 10
+        }
+      ],
+      "damage": null,
+      "speed": null,
+      "bonding": "Binds when picked up",
+      "sellPrice": 2464,
+      "unique": false,
+      "effects": [],
+      "locales": {
+        "en_US": {
+          "name": "Veteran's Silvered Chain Shirt",
+          "rank": null,
+          "description": null
+        }
+      }
+    },
+    "meta": {
+      "build": "1.60.1.70450",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {
+    "https://foreverdb.net/icons/132629.webp": {
+      "filename": "01c3714974943425a0be97b05be92457d30719e1d299bdfe3be68420e07887a1.webp",
+      "url": "/api/wow/cache-assets/01c3714974943425a0be97b05be92457d30719e1d299bdfe3be68420e07887a1.webp"
+    }
+  }
+}

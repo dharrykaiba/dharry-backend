@@ -1,0 +1,222 @@
+{
+  "_cache": {
+    "source": "foreverdb",
+    "resource": "zones",
+    "id": null,
+    "params": {},
+    "fetchedAt": "2026-10-21T15:29:48.798Z"
+  },
+  "data": {
+    "data": [
+      {
+        "id": 947,
+        "name": "Azeroth",
+        "type": 1,
+        "parentId": 0,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/947"
+      },
+      {
+        "id": 1411,
+        "name": "Durotar",
+        "type": 3,
+        "parentId": 1414,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1411"
+      },
+      {
+        "id": 1412,
+        "name": "Mulgore",
+        "type": 3,
+        "parentId": 1414,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1412"
+      },
+      {
+        "id": 1413,
+        "name": "The Barrens",
+        "type": 3,
+        "parentId": 1414,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1413"
+      },
+      {
+        "id": 1414,
+        "name": "Kalimdor",
+        "type": 2,
+        "parentId": 947,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1414"
+      },
+      {
+        "id": 1415,
+        "name": "Eastern Kingdoms",
+        "type": 2,
+        "parentId": 947,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1415"
+      },
+      {
+        "id": 1416,
+        "name": "Alterac Mountains",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1416"
+      },
+      {
+        "id": 1417,
+        "name": "Arathi Highlands",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1417"
+      },
+      {
+        "id": 1418,
+        "name": "Badlands",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1418"
+      },
+      {
+        "id": 1419,
+        "name": "Blasted Lands",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1419"
+      },
+      {
+        "id": 1420,
+        "name": "Tirisfal Glades",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1420"
+      },
+      {
+        "id": 1421,
+        "name": "Silverpine Forest",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1421"
+      },
+      {
+        "id": 1422,
+        "name": "Western Plaguelands",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1422"
+      },
+      {
+        "id": 1423,
+        "name": "Eastern Plaguelands",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1423"
+      },
+      {
+        "id": 1424,
+        "name": "Hillsbrad Foothills",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1424"
+      },
+      {
+        "id": 1425,
+        "name": "The Hinterlands",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1425"
+      },
+      {
+        "id": 1426,
+        "name": "Dun Morogh",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1426"
+      },
+      {
+        "id": 1427,
+        "name": "Searing Gorge",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1427"
+      },
+      {
+        "id": 1428,
+        "name": "Burning Steppes",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1428"
+      },
+      {
+        "id": 1429,
+        "name": "Elwynn Forest",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1429"
+      },
+      {
+        "id": 1430,
+        "name": "Deadwind Pass",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1430"
+      },
+      {
+        "id": 1431,
+        "name": "Duskwood",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1431"
+      },
+      {
+        "id": 1432,
+        "name": "Loch Modan",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1432"
+      },
+      {
+        "id": 1433,
+        "name": "Redridge Mountains",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1433"
+      },
+      {
+        "id": 1434,
+        "name": "Stranglethorn Vale",
+        "type": 3,
+        "parentId": 1415,
+        "newInForever": false,
+        "url": "https://foreverdb.net/maps/1434"
+      }
+    ],
+    "meta": {
+      "build": "1.60.1.70450",
+      "total": 60,
+      "limit": 25,
+      "offset": 0,
+      "next": "/api/v1/zones?offset=25",
+      "attribution": "Data from ForeverDB.net (https://foreverdb.net). You must credit ForeverDB.net, with a visible link to https://foreverdb.net, wherever you show this data."
+    }
+  },
+  "assets": {}
+}
